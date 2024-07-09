@@ -1,0 +1,12 @@
+Jugador 1: pa, Jugador 2: p => Jugador 1 GANA!!
+Jugador 1: p, Jugador 2: p => EMPATE
+Jugador 1: t, Jugador 2: t => EMPATE
+Jugador 1: pa, Jugador 2: p => Jugador 1 GANA!!
+Jugador 1: pa, Jugador 2: pa => EMPATE
+Jugador 1: p, Jugador 2: p => EMPATE
+Jugador 1: t, Jugador 2: pa => Jugador 1 GANA!!
+Jugador 1: t, Jugador 2: t => EMPATE
+Jugador 1: p, Jugador 2: pa => Jugador 2 GANA!!
+Jugador 1: p, Jugador 2: pa => Jugador 2 GANA!!
+Jugador 1: p, Jugador 2: t => Jugador 1 GANA!!
+Jugador 1: p, Jugador 2: pa => Jugador 2 GANA!!
